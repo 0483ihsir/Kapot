@@ -12,7 +12,7 @@ if(!$m) {
 
         }
 
-$db=mysqli_connect('localhost','id389671_1280217','ihsir2343','id389671_1280217');
+$db=mysqli_connect('localhost','XXXXX','XXXXX','XXXXX');
 
 
 $query='select * from login where mail="'.$_POST['email'].'"';

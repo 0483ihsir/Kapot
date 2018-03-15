@@ -1,8 +1,8 @@
 <?php
-$db=mysql_connect('localhost','id389671_1280217','ihsir2343') or die('unable to connect');
+$db=mysql_connect('localhost','XXXXX','XXXXX') or die('unable to connect');
 
 
-mysql_select_db('id389671_1280217',$db);
+mysql_select_db('XXXXX',$db);
 
 $query=
 

@@ -1,5 +1,5 @@
 <?php
-$db=mysqli_connect('localhost','id389671_1280217','ihsir2343','id389671_1280217') or die('check connection parametre');
+$db=mysqli_connect('localhost','XXXXX','XXXXX','XXXXX') or die('check connection parametre');
 
 
 $otpid=$_GET['hvid'];
